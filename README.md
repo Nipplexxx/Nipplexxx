@@ -4,10 +4,6 @@
 
 <h1 align="center">Привет! Я Слава 👋</h1>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nipplexxx&style=flat-square&color=blue" alt="Просмотры профиля"/>
-</div>
-
 ---
 
 ## 🙋‍♂️ Обо мне
