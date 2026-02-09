@@ -62,10 +62,22 @@
 ---
 
 ## 📊 Активность на GitHub
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nipplexxx&theme=github_dark" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nipplexxx&theme=github_dark" alt="Top Langs" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nipplexxx&theme=github_dark" alt="Most Commit Language" />
+  <!-- Основная карта с деталями профиля -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nipplexxx&theme=github_dark" alt="Profile Details" style="width: 100%; max-width: 800px;" />
+  
+  <br>
+  
+  <!-- Две карточки с языками бок о бок -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nipplexxx&theme=github_dark" alt="Top Langs" style="width: 48%; min-width: 300px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nipplexxx&theme=github_dark" alt="Most Commit Language" style="width: 48%; min-width: 300px;" />
+  </div>
+</div>
+
+<div align="center" style="margin-top: 15px; color: #8b949e; font-size: 0.9em;">
+  <i>Статистика отражает мой фокус: <strong>C#</strong> для промышленной разработки и <strong>Kotlin</strong> для мобильных проектов</i>
 </div>
 
 ---
