@@ -63,8 +63,9 @@
 
 ## 📊 Активность на GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nipplexxx&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nipplexxx&layout=compact&theme=default&hide_border=true" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nipplexxx&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nipplexxx&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nipplexxx&theme=github_dark" alt="Most Commit Language" />
 </div>
 
 ---
