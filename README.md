@@ -77,8 +77,8 @@
 *   Разработка мобильных приложений под **Android**.
 
 **Связаться со мной:**
-- **Telegram:** [@your_nickname](https://t.me/nipplexxx)
-- **Email:** [your.email@example.com](mailto:personinsey@outlook.com)
+- **Telegram:** [@nipplexxx](https://t.me/nipplexxx)
+- **Email:** [personinsey@outlook.com](mailto:personinsey@outlook.com)
 - **GitHub:** [https://github.com/Nipplexxx](https://github.com/Nipplexxx)
 
 *Отвечаю в течение 24 часов. Готов к техническим собеседованиям и обсуждению деталей проекта.*
