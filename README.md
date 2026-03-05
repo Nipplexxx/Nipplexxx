@@ -1,96 +1,106 @@
 <div align="center">
 
-### 💻 Слава | C# Developer (CAD/Промышленный софт) & Android Enthusiast
-**Backend · Desktop · Mobile · Database**
+### 💻 Слава | C# / Android Developer
 
-  <a href="https://t.me/nipplexxx">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:personinsey@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Nipplexxx?tab=repositories">
-    <img src="https://img.shields.io/badge/Мои_Проекты-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-  </a>
+Backend · Desktop · Mobile
+
+<a href="https://t.me/nipplexxx">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
+</a>
+<a href="mailto:personinsey@outlook.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Nipplexxx?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-181717?style=flat&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🧠 Обо мне
-Я — **разработчик с фокусом на создании практичных решений**. Моя основная экспертиза лежит в области **C# и разработки плагинов для инженерных систем (САПР "Лоцман")**, где я решаю задачи автоматизации и интеграции. Параллельно развиваюсь в мобильной разработке на **Kotlin/Android** и в создании полноценных бэкенд-решений с **REST API** и **базами данных**.
+## 👋 О себе
 
-Мой подход: **решать реальные проблемы**, а не просто писать код. Мне интересны задачи, где нужно разобраться в предметной области (как в промышленном ПО) и создать надежный, понятный продукт.
+Разработчик, в основном работаю с **C# и .NET**.  
+Делаю **десктоп-приложения, плагины для инженерного софта и автоматизацию задач**.
 
----
+Параллельно занимаюсь **Android-разработкой (Kotlin)** и иногда пишу backend-сервисы.
 
-## 🛠 Технологический стек
-
-| **Категория**       | **Инструменты и технологии**                                                                                               |
-|----------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **Основной язык / Платформа** | `C#` `.NET` `.NET Framework` `WPF` `Windows Forms`                                                                    |
-| **Мобильная разработка**    | `Kotlin` `Java` `Android SDK` `Jetpack Compose`                                                                      |
-| **Базы данных**          | `MySQL` `Firebase Realtime Database` `Firestore` `SQLite`                                                                 |
-| **Бэкенд & API**       | `REST API` `ASP.NET Core` (изучаю) `JSON` `XML`                                                                         |
-| **Инструменты & Прочее** | `Git` `GitHub` `Visual Studio` `Android Studio` `Postman` `Figma`                                                |
+Интересны задачи, где нужно не просто написать код, а **разобраться в системе и упростить людям работу**.
 
 ---
 
-## 💼 Ключевой опыт: Разработка плагинов для САПР "Лоцман"
-> *Опыт из коммерческой разработки, код которой является собственностью компании и не представлен в открытом доступе.*
+## 🛠 Стек
 
-В рамках работы над проектами для инженерного софта я занимался:
-*   **Автоматизация отчетов**: Разработка модулей для генерации спецификаций и ведомостей непосредственно из CAD-моделей.
-*   **Интеграция внешних сервисов**: Создание мостов между САПР и сторонними системами управления данными (PDM/ERP).
-*   **Расширение базового функционала**: Реализация дополнительных инструментов для работы инженеров-конструкторов.
-*   **Особенности**: Работа с **legacy-кодом**, глубокое понимание **предметной области**, оптимизация процессов, которые раньше выполнялись вручную.
+**Основное**
+- C#
+- .NET / .NET Framework
+- WPF / Windows Forms
 
-**Используемый стек:** `C#` `.NET Framework` `Windows Forms / WPF` `СУБД` `XML-конфигурации`
+**Android**
+- Kotlin
+- Android SDK
+- Jetpack Compose
+
+**Backend / API**
+- REST API
+- ASP.NET Core (изучаю)
+
+**Базы данных**
+- MySQL
+- SQLite
+- Firebase (Realtime DB, Firestore)
+
+**Инструменты**
+- Git / GitHub
+- Visual Studio
+- Android Studio
+- Postman
 
 ---
 
-## 🚀 Избранные проекты (открытый код)
-*Вот несколько моих публичных проектов, которые отражают мой подход к разработке.*
+## 💼 Опыт
 
-### [Niksey — Мессенджер с аудиозвонками](https://github.com/Nipplexxx/Niksey)
-> **Собственный мессенджер на Android:** Кроссплатформенное приложение для обмена сообщениями, файлами и проведения защищенных аудиозвонков.
-> *   **Задача:** Создать полнофункциональную альтернативу Telegram/WhatsApp с акцентом на производительность и чистую архитектуру.
-> *   **Реализация:** Нативный Android-клиент на **Kotlin** с архитектурой **Clean Architecture + MVI/MVVM**. Реализованы: **WebRTC** для P2P аудиозвонков, **Socket.IO** для real-time чатов, **шифрование** сообщений (AES), офлайн-режим с **Room**, кэширование медиа (**Glide/Coil**), push-уведомления через **Firebase FCM** и фоновая служба для поддержания соединения.
-> *   **Стек:** `Kotlin` `Clean Architecture` `MVI/MVVM` `Coroutines & Flow` `Dagger Hilt` `WebRTC` `Socket.IO` `Room` `Retrofit` `Firebase (FCM, Auth)` `AES Encryption`
-> *   **Ключевая сложность/достижение:** Оптимизация стабильности аудиозвонков (WebRTC) в условиях нестабильного интернета и создание гибкой системы доставки сообщений с гарантированной очередностью (offline-first подход).
+Работал над **плагинами для САПР "Лоцман"**.
+
+Основные задачи:
+- автоматизация отчётов и спецификаций  
+- интеграция с внешними системами  
+- разработка дополнительных инструментов для инженеров  
+- работа с legacy-кодом
+
+Стек:  
+`C#` · `.NET Framework` · `WPF` · `WinForms` · `XML` · `SQL`
 
 ---
 
-## 📊 Активность на GitHub
+## 🚀 Проекты
+
+### Niksey — Android мессенджер  
+https://github.com/Nipplexxx/Niksey
+
+Мессенджер с:
+- чатами
+- отправкой файлов
+- аудиозвонками
+
+Используется:
+- Kotlin
+- WebRTC
+- Socket.IO
+- Firebase
+- Room
+
+---
+
+## 📊 GitHub
 
 <div align="center">
-  <!-- Основная карта с деталями профиля -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nipplexxx&theme=github_dark" alt="Profile Details" style="width: 100%; max-width: 800px;" />
-  
-  <br>
-  
-  <!-- Две карточки с языками бок о бок -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nipplexxx&theme=github_dark" alt="Top Langs" style="width: 48%; min-width: 300px;" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nipplexxx&theme=github_dark" alt="Most Commit Language" style="width: 48%; min-width: 300px;" />
-  </div>
-</div>
-
-<div align="center" style="margin-top: 15px; color: #8b949e; font-size: 0.9em;">
-  <i>Статистика отражает мой фокус: <strong>C#</strong> для промышленной разработки и <strong>Kotlin</strong> для мобильных проектов</i>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nipplexxx&theme=github_dark"/>
 </div>
 
 ---
 
-## 📫 Контакты и сотрудничество
-Я открыт для обсуждения интересных проектов, особенно в сферах:
-*   Разработка десктоп-приложений и бизнес-логики на **C#**.
-*   Создание инструментов автоматизации для инженерных и промышленных задач.
-*   Разработка мобильных приложений под **Android**.
+## 📫 Контакты
 
-**Связаться со мной:**
-- **Telegram:** [@nipplexxx](https://t.me/nipplexxx)
-- **Email:** [personinsey@outlook.com](mailto:personinsey@outlook.com)
-- **GitHub:** [https://github.com/Nipplexxx](https://github.com/Nipplexxx)
-
-*Отвечаю в течение 24 часов. Готов к техническим собеседованиям и обсуждению деталей проекта.*
+Telegram: https://t.me/nipplexxx  
+Email: personinsey@outlook.com
